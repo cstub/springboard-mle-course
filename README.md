@@ -1,1 +1,1 @@
-# Springboard-AI
+# Springboard Machine Learning Engineering Course
